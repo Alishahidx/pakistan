@@ -1,0 +1,33 @@
+* body{margin:0px;font-family: 'Roboto Condensed', sans-serif;}
+.tophead{background-image: url(41.jpg);background-position: cover;height: 800px;background-repeat: no-repeat;}
+.header{width: 100%;display: flex;justify-content: space-around;line-height: 100px;}
+.logo {width: 10%;}
+.logo img{width: 60%;}
+.navbar .navlink {float: left;margin: 0px 10px;height: 70px;}
+.navlink:hover {border-bottom:2px solid yellow;}
+.contact {display: inline;width: 9%;float: left;line-height: 19px;margin-top: 30px;}
+.cimage {margin:0px;padding: 0px;}
+.cimage img{width: 30%;float: left;}
+.number {margin:0px;padding: 0px;width:;}
+.number .numberlink{float: left;height: 20px;margin-left: 5px;}
+.backendimage{height: 2000px;margin: 0 auto;width: 65%;background-image: url(explorepackages.jpg);background-repeat: no-repeat;}
+
+.container1{margin: 0 auto;width: 65%;position: absolute;height: 100%;background-color: transparent;}
+.stick{background-color: gold;height: 60px;width: 5px;}
+.yourcontent{display: flex;position: relative;top: 90px;}
+.yourtext{float: left;margin: 0px;padding: 0px;}
+.yourtext h1 {margin: 0px 0px 0px 10px;padding: 0px;}
+.yourtext p {margin: 0px 0px 0px 10px;padding: 0px;}
+
+.pplaces {width: 100%;display: flex;text-align: center;position: relative;top: 250px;left: 35px;}
+.pplaces img {width: 200px;height: 200px;}
+
+.youranothercontent{display: flex;position: absolute;top: 750px;left: 500px;width: 35%;}
+.youranothertext{float: right;margin: 0px;padding: 0px;}
+.youranothertext h1 {margin: 0px 0px 0px 10px;padding: 0px;}
+.youranothertext p {margin: 0px 0px 0px 10px;padding: 0px;}
+.stick1{background-color: gold;height: 60px;width: 5px;left: 370px;position: relative;bottom: 59px;}
+
+.tourplaces {display:flex;justify-content: space-around;width: 100%;height: 200px;position: relative;top: 600px;margin-top: 58px;}
+.placescontain img{width: 300px;height: 200px;}
+.placescontain{margin: 0px;padding: 0px;}
